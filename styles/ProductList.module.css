@@ -1,0 +1,78 @@
+.ayhaga button{
+    color:white;
+background-color: brown;
+}
+.ayhaga  :hover{
+    background-color: #F8B055;
+    color: black;
+}
+.ayhagaa{
+    cursor: pointer;
+}
+.side{
+    background-color: #F7F7F6;
+    
+        background-color: #9a3324;
+        background: url(https://texas-psdigital.vercel.app/assets/images/stamp.png) rgba(44,40,38,.04);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: bottom;
+        padding: 11px 0 0;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+        -webkit-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+    
+}
+.side ul li a{
+    color: red;
+    cursor: pointer;  
+}
+.slide a{
+    color: #9a3324;
+    cursor: pointer;  
+    border-radius: 0;
+    margin-bottom: 0;
+    color: #9a3324;
+    font-size: 15px;
+    font-weight: 400;
+    position: relative;
+    display: inline-block;
+    /* border-bottom: 1px solid #f8b02d; */
+    margin-left: 21px;
+    margin-right: 21px;
+    font-family: biker;
+    text-transform: uppercase;
+    border-bottom: 1px solid #e9e8e7;
+}
+.slide a:hover{
+    color: #F8B055;
+    cursor: pointer;  
+    text-decoration: underline;
+}
+.side ul li  :hover{
+    color: #F8B055;
+    cursor: pointer;  
+    text-decoration: underline;
+}
+.slidee a{
+    color: #F8B055;
+    cursor: pointer;  
+    text-decoration: underline;
+}
+.slidee a:hover{
+    color: #F8B055;
+    cursor: pointer;  
+    text-decoration: underline;
+}
+.textt{    z-index: -1;
+    font-size: 60px;
+    font-weight: 700;
+    position: relative;
+    text-transform: uppercase;
+    color: #f8b02d;
+    line-height: 100px!important;
+    padding-top: 0;
+    /* margin-top: 35px; */
+}

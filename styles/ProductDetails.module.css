@@ -1,0 +1,17 @@
+.btna {
+    background-color: #F8B055;
+    color: black;
+}
+.btna:hover{
+    color: white;
+    background-color: black;
+}
+.btnaa{
+    color: white;
+    background-color: black;
+}
+.btnaa:hover{
+    background-color: #F8B055;
+    color: black;
+    
+}

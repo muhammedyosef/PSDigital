@@ -1,0 +1,25 @@
+
+.navbar{
+    background-color: #2C2925; 
+   
+}
+.navbar ul li a {
+    color: red;
+    cursor: pointer;
+}
+.lii{
+    font-size: 18px;
+    padding: 0.9rem 0;
+    color: #f8b02d !important;
+    font-weight: 400;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 1!important;
+    font-family: biker;
+    letter-spacing: 0;
+}
+.lii:hover{
+    color: #9a3324;
+
+}
